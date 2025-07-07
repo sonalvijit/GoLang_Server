@@ -7,5 +7,6 @@
      },
      "github.copilot.advanced": {
           "useLanguageServer": false
-     }
+     },
+     "python.analysis.typeCheckingMode": "off"
 }
